@@ -15,24 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="C" height="25"</code>
-  <code><img title="C++" height="25"</code>
-  <code><img title="C#" height="25"</code>
-  <code><img title="Python" height="25"</code>
-  <code><img title="Git" height="25" </code>
-  <code><img title="PostgreSQL" height="25"</code>
-  <code><img title="Visual Studio Code" height="25" </code>
-  <code><img title="Microsoft Visual Studio" height="25"</code>
-  <code><img title="Java" height="25"</code>
-  <code><img title="GitHub" height="25"</code>
-  <code><img title="MySQL" height="25"</code>
-
-</p>
-<hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
