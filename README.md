@@ -52,6 +52,6 @@ Here are some ideas to get you started:
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=GustavoCamargoRL&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
